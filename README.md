@@ -24,15 +24,15 @@ Now that the data is ready, I will apply statistical techniques to analyze the d
 
 ### Task 4
 
-In the fourth task, I'll focus on choosing appropriate visualizations based on the data I want to present using charts, plots, and histograms to help reveal our findings and trends. I am going to access the Data from an SQL database and pull only the data I need into DataFrames.
+In the fourth task, I'll focus on choosing appropriate visualizations based on the data I want to present using charts, plots, and histograms to help reveal my findings and trends. I am going to access the Data from an SQL database and pull only the data I need into DataFrames.
 
 ### Task 5
 
-For task 5, we will employ Cognos to create interactive dashboards to help analyze and present the data dynamically.
+For task 5, I will employ Cognos to create interactive dashboards to help analyze and present the data dynamically.
 
 ### Task 6
 
-For the final task, I will use our storytelling skills to provide a narrative and present the findings of our analysis.
+For the final task, I will use my storytelling skills to provide a narrative and present the findings of my analysis.
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ Stack Overflow, a popular website for developers, conducted an online survey of 
 
 The dataset I am going to use comes from the following source: https://survey.stackoverflow.co/ under a ODbL: Open Database License.
 
-I will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present our analysis.
+I will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present my analysis.
 
 Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
 
@@ -72,16 +72,15 @@ The below table lists the questions asked in the survey and the column under whi
   </thead>
   <tbody>
     <tr>
-      <td>Respondent</td>
+      <td>ResponseId</td>
       <td>
-        Randomized respondent ID number (not in order of survey response time)
+        Randomized respondent ID number
       </td>
     </tr>
     <tr>
       <td>MainBranch</td>
       <td>
-        Which of the following options best describes you today? Here, by
-        “developer” we mean “someone who writes code.”
+        Which of the following options best describes you today? 
       </td>
     </tr>
     <tr>
