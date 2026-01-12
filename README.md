@@ -53,9 +53,9 @@ Stack Overflow, a popular website for developers, conducted an online survey of 
 
 The dataset I am going to use comes from the following source: https://survey.stackoverflow.co/ under a ODbL: Open Database License.
 
-I will be given a subset of the original data set in this capstone project. We will explore, analyze, and visualize this dataset and present my analysis.
+I will be given a subset of the original data set in this capstone project. I will explore, analyze, and visualize this dataset and present my analysis.
 
-Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
+Note: This randomised subset contains around 1/10th of the original data set. Any conclusions I draw after analyzing this subset may not reflect the real world scenario.
 
 The dataset is available as a .csv file here.
 
