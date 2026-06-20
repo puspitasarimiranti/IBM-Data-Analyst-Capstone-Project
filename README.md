@@ -48,18 +48,19 @@ This repository contains the complete end-to-end data pipeline, statistical anal
 *   **Geospatial Analysis:** Leveraged `Folium` to plot geographical concentration graphs, defining regional talent pockets globally.
 
 ### 🔹 Step 5: Interactive BI Dashboard Construction
-*   Developed dynamic executive visibility tools within **IBM Cognos Analytics** and **Google Looker Studio**. The dashboard isolates current technology use parameters, upcoming future tech initiatives, and key stakeholder metrics.
+*   Developed dynamic executive visibility tools within **IBM Cognos Analytics**. The dashboard isolates current technology use parameters, upcoming future tech initiatives, and key stakeholder metrics.
 
 ---
 
 ## 📈 Key Insights & Dashboard Preview
 
-*(Include 1 or 2 concrete bullet points detailing what your data actually showed. For example:)*
 *   **Insight 1:** Python and JavaScript continue to drive contemporary industry workflows, showing a strong correlation with web development and automated scripting frameworks.
 *   **Insight 2:** PostgreSQL emerged as a primary target technology sector, marking a distinct corporate migration trend away from traditional legacy relational backends.
 
-![Dashboard Preview](./assets/dashboard_screenshot.png) 
-*Caption: Live view of the technical trends and developer demographic analytics matrix inside IBM Cognos.*
+<img width="1123" height="477" alt="Screenshot 2026-06-20 at 11 11 02" src="https://github.com/user-attachments/assets/fc2b0883-6e9f-4c0c-86d5-2c0bd0cf84bb" />
+<img width="1119" height="497" alt="Screenshot 2026-06-20 at 11 10 54" src="https://github.com/user-attachments/assets/d1b83992-2375-4534-8bb2-77d380721072" />
+
+*Caption: The technical trends and developer demographic analytics matrix*
 
 ---
 
