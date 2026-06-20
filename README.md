@@ -1,5 +1,5 @@
 # 📊 Technology Skill & Market Trend Analytics Dashboard
-### End-to-End Data Analysis Capstone Project for IBM Data Analyst Professional Certificate
+### End-to-End Data Analysis Capstone Project
 
 This repository contains the complete end-to-end data pipeline, statistical analysis, and interactive business intelligence dashboard designed to track global technology skill demands, developer demographics, and emerging software trends.
 
