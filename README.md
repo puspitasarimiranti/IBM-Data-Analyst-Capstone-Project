@@ -10,11 +10,11 @@ This repository contains the complete end-to-end data pipeline, statistical anal
 *   **Situation:** A global IT and Business Services firm needs to identify emerging technology sectors and upcoming skill requirements to keep its engineering teams competitive and optimize corporate training programs.
 *   **Task:** My objective was to simulate the role of a Lead Data Analyst tasked with collecting global tech market data from fragmented web sources, cleaning unstructured response sets, conducting deep exploratory analysis, and establishing a centralized visual dashboard tracking market demand metrics.
 *   **Action:** 
-    *   **Data Sourcing:** Engineered Python web scraping routines (`BeautifulSoup`) and executed REST API queries to collect unstructured compensation and job data.
+    *   **Data Sourcing:** Collected technology trend data using REST APIs and Python web scraping (`BeautifulSoup`).
     *   **Database & ETL:** Loaded a subset of the [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/) data (containing ~4,900 rows across 62 variables under an ODbL License) into an SQL relational database, utilizing SQL queries and `Pandas` to load structured segments into DataFrames.
     *   **Data Wrangling:** Implemented an automated profiling pipeline to isolate missing data fields, drop duplicate entries, handle outliers via mathematical statistics, and normalize disparate string text.
     *   **Analysis & Dashboards:** Conducted descriptive analytics to isolate top programming languages and localized databases. Programmed custom maps using `Folium` and engineered interactive monitoring interfaces using **IBM Cognos Analytics** and **Google Looker Studio**.
-*   **Result:** Developed an interactive, production-ready BI dashboard architecture that consolidated multi-channel survey results into actionable trend metrics. The final deliverables highlighted top programming languages, prioritized fast-growing cloud/database architectures, and mapped precise engineer geographic concentrations to guide regional staffing strategy.
+*   **Result:** Developed an interactive BI dashboard for monitoring technology trends that consolidated multi-channel survey results into actionable trend metrics. The final deliverables highlighted top programming languages, prioritized fast-growing cloud/database architectures, and mapped precise engineer geographic concentrations to guide regional staffing strategy.
 
 ---
 
@@ -54,13 +54,22 @@ This repository contains the complete end-to-end data pipeline, statistical anal
 
 ## 📈 Key Insights & Dashboard Preview
 
-*   **Insight 1:** Python and JavaScript continue to drive contemporary industry workflows, showing a strong correlation with web development and automated scripting frameworks.
-*   **Insight 2:** PostgreSQL emerged as a primary target technology sector, marking a distinct corporate migration trend away from traditional legacy relational backends.
+*   **Insight 1:** Python ranked among the most widely used technologies across survey respondents, reinforcing its role as a core skill for data and automation-focused teams.
+*   **Insight 2:** PostgreSQL emerged as a primary target technology sector, marking a distinct corporate migration trend away from traditional legacy relational backends. 
 
 <img width="1123" height="477" alt="Screenshot 2026-06-20 at 11 11 02" src="https://github.com/user-attachments/assets/fc2b0883-6e9f-4c0c-86d5-2c0bd0cf84bb" />
 <img width="1119" height="497" alt="Screenshot 2026-06-20 at 11 10 54" src="https://github.com/user-attachments/assets/d1b83992-2375-4534-8bb2-77d380721072" />
 
 *Caption: The technical trends and developer demographic analytics matrix*
+
+## 📈 Business Impact
+
+**The dashboard enables decision makers to:**
+
+*  Prioritize employee upskilling initiatives
+*  Identify emerging technology investments
+*  Align hiring strategies with market demand
+*  Monitor regional developer talent distribution
 
 ---
 
